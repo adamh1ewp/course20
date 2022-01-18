@@ -1,12 +1,27 @@
-Today's lesson covers a lot of material! We finish our study of chapter 5, looking at softmax in more detail, and also learning about some of the tricks that fastai uses to get good results from transfer learning, including gradual unfreezing and discriminative learning rates.
 
-We look at what it takes to training larger models, including the use of mixed precision training.
 
-Next, we work out way through chapter 6 of the book, which looks at multi-label problems. We discuss why multi-label approaches can be useful even in situations where you only expect one category of object per item, and look at how loss functions and data can be adjusted to work with multi-label data, including studying negative log likelihood loss.
+chapter 5, looking at 
 
-Then we look deeper into PyTorch's and fastai's data classes, including `DataLoader`, `DataLoaders`, `DataSet`, and `DataSets`, and how they are used with the data block API.
 
-Finally, we begin our study of collaborative filtering applications, building a simple but effective model from scratch, and then seeing how we can study the learned weights, to find out what they tell us about our data.
+softmax in more detail, and also learning about some of the
+  tricks that fastai uses to get good results from 
+  transfer learning, including 
+  gradual unfreezing and discriminative learning rates.We look at what it takes to training 
+
+larger models, including the use of
+  mixed precision training.Next, we work out way through
+
+
+chapter 6 of the book, which looks at
+
+multi-label problems. We discuss why multi-label approaches can be useful even in situations where you only expect one category of object per item, and look at how
+
+loss functions and data can be adjusted to work with multi-label data, including studying
+negative log likelihood loss. Then we look deeper into PyTorch's and fastai's 
+
+data classes, including `DataLoader`, `DataLoaders`, `DataSet`, and `DataSets`, and how they are used with the data block API.Finally, we begin our study of 
+
+collaborative filtering applications, building a simple but effective model from scratch, and then seeing how we can study the learned weights, to find out what they tell us about our data.
 
 ## Questionnaire
 
