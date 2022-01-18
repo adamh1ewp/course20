@@ -5,8 +5,8 @@ SCRATCH.We look at the
 
 SIGMOID function,and see why it is that it's needed for
  CC models. We 
- refactor our data input code to 
- create batches, in the process learning about the `DataLoader` class. We also learn about a number of useful 
+ REFACTOR our data input code to 
+ create BATCHES, in the process learning about the `DataLoader` class. We also learn about a number of useful 
  features of arrays and tensors in python, including `view` and the `@` operator.Then we look more closely at how
  gradients are calculated and used in a PyTorch training loop. We go from a simple single-layer network, to create our
 
