@@ -11,7 +11,7 @@ SIGMOID function,and see why it is that it's needed for
  gradients are calculated and used in a PyTorch training loop. We go from a simple single-layer network, to create our
 
 
-first "deep" network from scratch, by adding non-linearities (with ReLU) to our network! We 
+first "deep" network from scratch, by adding NON LINEARITIES (with ReLU) to our network! We 
  discuss why we need deep networks to get good results in practice.
 
 Finally, we start looking at the `softmax` activation function, which is used in most non-binary classification models.
