@@ -1,8 +1,18 @@
-Today we continue our dive deep into the foundations of how a neural net really works, by training one from scratch.
+Today we continue our dive deep into the foundations of how a  
+NEURAL NET really works, by training one from 
+SCRATCH.We look at the
 
-We look at the sigmoid function, and see why it is that it's needed for classification models. We refactor our data input code to create batches, in the process learning about the `DataLoader` class. We also learn about a number of useful features of arrays and tensors in python, including `view` and the `@` operator.
 
-Then we look more closely at how gradients are calculated and used in a PyTorch training loop. We go from a simple single-layer network, to create our first "deep" network from scratch, by adding non-linearities (with ReLU) to our network! We discuss why we need deep networks to get good results in practice.
+SIGMOID function,and see why it is that it's needed for
+ CC models. We 
+ refactor our data input code to 
+ create batches, in the process learning about the `DataLoader` class. We also learn about a number of useful 
+ features of arrays and tensors in python, including `view` and the `@` operator.Then we look more closely at how
+ gradients are calculated and used in a PyTorch training loop. We go from a simple single-layer network, to create our
+
+
+first "deep" network from scratch, by adding non-linearities (with ReLU) to our network! We 
+ discuss why we need deep networks to get good results in practice.
 
 Finally, we start looking at the `softmax` activation function, which is used in most non-binary classification models.
 
