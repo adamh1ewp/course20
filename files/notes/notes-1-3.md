@@ -1,10 +1,20 @@
-Today we finish creating and deploying our own app. We discuss data augmentation, and look at the most important types of augmentation used in modern computer vision models. We also see how fastai helps you process your images to get them ready for your model.
+creating and deploying our own app. We discuss 
+data augmentation, and look at the most important 
+  types of augmentation used in modern computer vision models. We also see how
+fastai helps you process your images to get them ready for your model. We look at building 
 
-We look at building GUIs, both for interactive apps inside notebooks, and also for standalone web applications. We discuss how to deploy web applications that incorporate deep learning models. In doing so, we look at the pros and cons of different approaches, such as server-based and edge-device deployment.
+GUIs, both for interactive apps inside notebooks, and also for
+  standalone web applications. We discuss how to 
 
-Our final area for productionization is looking at what can go wrong, and how to avoid problems, and keep your data product working effectively in practice.
+deploy web applications that incorporate deep learning models. In doing so, we look at the
+  pros and cons of different approaches, such as 
+    server-based and edge-device deployment.
 
-Then we skip over to chapter 4 of the book, and learn about the underlying math and code of Stochastic Gradient Descent, which lies at the heart of neural network training.
+ productionization is looking at what can go wrong, and how to 
+  avoid problems, and keep your data product working effectively in practice.Then we skip over to
+
+chapter 4 of the book, and learn about the underlying math and code of 
+  Stochastic Gradient Descent, which lies at the heart of neural network training.
 
 ## Questionnaire
 
