@@ -3,15 +3,22 @@
 
 SIGMOID function,and see why it is that it's needed for
  CC models. We 
- REFACTOR our data input code to 
- create BATCHES, in the process learning about the `DataLoader` class. We also learn about a number of useful 
- FEATURES of arrays and tensors in python, including `view` and the `@` operator.Then we look more closely at how
- GRADIENTS are calculated and used in a PyTorch training loop. We go from a simple single-layer network, to create our
+
+REFACTOR our data input code to 
+ create BATCHES, in the process learning about the 
+  `DataLoader` class. We also learn about a number of useful 
+
+FEATURES of arrays and tensors in python, including `view` and the `@` operator.Then we look more closely at how
+
+GRADIENTS are calculated and used in a
+ PyTorch training loop. We go from a simple single-layer network, to create our
 
 
-FIRST "deep" network from scratch, by adding NON LINEARITIES (with ReLU) to our network! We 
+FIRST "deep" network from scratch, by adding
+ NON LINEARITIES (with ReLU) to our network! We 
 
-Finally, we start looking at the `SOFTMAX` activation function, which is used in most non-binary classification models.
+Finally, we start looking at the `SOFTMAX` activation function, which is used in most
+ non-binary classification models.
 
 ## Questionnaire
 
