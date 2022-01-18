@@ -6,7 +6,8 @@ chapter 5, looking at
 softmax in more detail, and also learning about some of the
   tricks that fastai uses to get good results from 
   transfer learning, including 
-  gradual unfreezing and discriminative learning rates.We look at what it takes to training 
+  gradual unfreezing and
+  discriminative learning rates.We look at what it takes to training 
 
 larger models, including the use of
   mixed precision training.Next, we work out way through
